@@ -1,3 +1,4 @@
 # portfolio-website
  Personal Portfolio Website 2024
-Published Urls: https://rohitsarraf.netlify.app/
+Published Urls: https://rohitrajsarraf.com.np/
+https://rohitsarraf.netlify.app/
